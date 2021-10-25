@@ -61,7 +61,7 @@ Each player can do certain amount of action in their turn that is explained in t
 you have available are research stations; more will come later. Take the structure from the pile next to the board. If all structures of a type have been built, you may take one from anywhere on the board and move it to your current city. Each city may contain one of each type of structure. 
 - Discover a Cure
 - Treat a disease
-- 
+
 ## Conflicts:
 - The players needs to understand how together they can cure the disease.
 - Each player has diffrent actions and the dillemma will be which is better for the group.
@@ -101,3 +101,6 @@ the same month. Just continue where you left off in the Legacy deck.
 
 
 ## Market survey:
+The game is only avaliable in a board-game way.
+We believe that an online version will make people \ friends have fun while playing it in a remote way.
+Especially in a time that we ourselves exposed to a pandamic - CoronaVirus.
